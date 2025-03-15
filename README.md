@@ -1,7 +1,7 @@
 # CompTIA CertMaster Labs for CySA+ (Exam CS0-003)
 
 <p align="center">
-<img src="https://i.imgur.com/gawuoxL.png" alt="CompTIA CertMaster Labs"/>
+<img src="./pic/comptia-cysa.png" alt="CompTIA CertMaster Labs"/>
 </p>
 
 
@@ -93,6 +93,6 @@ Applied Lab: Detecting and Exploiting Security Misconfiguration
 
 ---
 
-![CompTIA CertMaster Labs](https://i.imgur.com/AUNb7jh.png)
+![CompTIA CertMaster Labs](./pic/comptia-certmaster-labs-for-cysa.png)
 
 ---
